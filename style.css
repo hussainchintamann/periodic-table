@@ -1,0 +1,16 @@
+table,tr{
+   
+    color: white;
+    width: 800px;
+    height: 50px;
+}
+
+body,table{
+    text-align: center;
+}
+
+.small{
+width: 670px;
+margin-left:70px;
+margin-right: 15px;
+}
